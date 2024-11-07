@@ -1,2 +1,1 @@
-# Hello-world
-My first repository
+# this is responsive card layout using display flex box
